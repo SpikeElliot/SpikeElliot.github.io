@@ -7,7 +7,9 @@ A fitness-based social media platform built with Node.js, Express, EJS, and MySQ
 - Connect their account to the Strava API to view their exercise data on the activities page 
 - Create public posts (optionally connected to activities)
 - Search for, comment on, and like posts
-- View other users’ profiles and follow them. 
+- View other users’ profiles and follow them.
+
+![Technologies Used: JavaScript, HTML, CSS, Node.js, Express, MySQL](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql&theme=light)
 
 ![Image of the Home page of the application](/assets/fitter-homepage.png)
 
@@ -21,7 +23,9 @@ A pre-trained Machine Learning model is implemented to extract the guitar from a
 
 Also implemented is a karaoke-style note accuracy score derived from the the user's pitch and rhythm through use of audio analysis functions from the Essentia library. This gives the user real-time feedback on performance as well as providing a gamified experience.
 
-![Image of a Wireframe for the application's song library screen](/assets/finalproject-songlibrary.png)
+![Technologies Used: Python, Qt, Pytorch](https://skillicons.dev/icons?i=python,qt,pytorch&theme=light)
+
+![Image of a Wireframe for the application's song library screen](/assets/finalproject-practicemode.png)
 
 ---
 
@@ -32,6 +36,8 @@ This small piece of software was built using the p5.js library and houses two se
 The rhythm game features procedural real-time note generation synchronised to the song's tempo, an in-depth scoring system, difficulty options that adjust note spawn rates, and 3D graphics rendering of game environment.
 
 The music player showcases various visualisations, audio playback controls, a clickable progress bar, and a webcam input integrated visualisation through use of p5's FFT functions.
+
+![Technologies Used: JavaScript, p5.js](https://skillicons.dev/icons?i=js,p5js&theme=light)
 
 ![Image of the Rhythm Game gameplay screen in the application](/assets/rhythmgame-gamescreen.png)
 
@@ -46,5 +52,7 @@ For my 2nd year computing project module, I collaborated in a group project to d
 - Search for rooms filtered by criteria such as availability, capacity, etc.
 - View and cancel any and all bookings made by user
 - Edit/amend a booking in case of erroneous entry data
+
+![Technologies Used: JavaScript, HTML, CSS, Node.js, Express, MySQL](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mysql&theme=light)
 
 ![Image of a room search screen in the application](/assets/bookit-roomscreen.png)

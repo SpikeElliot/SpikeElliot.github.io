@@ -17,15 +17,15 @@ A fitness-based social media platform built with Node.js, Express, EJS, and MySQ
 
 ## [Gamified Guitar Song Learning Application (WIP)](https://github.com/SpikeElliot/Gamified-Guitar-Song-Learning)
 
-Currently work in progress, this standalone Python software built with PyQt5 assists guitarists in the process of learning a song by ear. 
+Currently work in progress, this standalone Python software built with PyQt assists guitarists in the process of learning a song by ear. 
 
-A pre-trained Machine Learning model is implemented to extract the guitar from an audio file. A user can then play along to the separated track with their connected electric guitar in a virtual practise environment providing audio playback options (e.g. looping or adjusting speed).
+A pre-trained Machine Learning model is implemented to extract the guitar from an audio file. A user can then play along to the separated track with their connected electric guitar in a virtual practise environment providing audio playback options (e.g. play/pause, looping sections, adjusting speed).
 
-Also implemented is a karaoke-style note accuracy score derived from the the user's pitch and rhythm through use of audio analysis functions from the Essentia library. This gives the user real-time feedback on performance as well as providing a gamified experience.
+Also implemented is a karaoke-style note accuracy score derived from the the user's "closeness" to the original guitar track through use of audio analysis functions from the Librosa library. This gives the user real-time feedback on performance as well as providing a gamified experience.
 
 ![Technologies Used: Python, Qt, Pytorch](https://skillicons.dev/icons?i=python,qt,pytorch&theme=light)
 
-![Image of a Wireframe for the application's song library screen](/assets/finalproject-practicemode.png)
+![Image of a UI Wireframe for the application's song practice mode](/assets/finalproject-practicemode.png)
 
 ---
 
@@ -40,6 +40,16 @@ The music player showcases various visualisations, audio playback controls, a cl
 ![Technologies Used: JavaScript, p5.js](https://skillicons.dev/icons?i=js,p5js&theme=light)
 
 ![Image of the Rhythm Game gameplay screen in the application](/assets/rhythmgame-gamescreen.png)
+
+---
+
+## [Hangman Game](https://github.com/SpikeElliot/Java-Hangman-Game)
+
+An endless hangman game designed as a small test application with Java Swing. The GUI provides a text box and button to guess letters, and updates the necessary game information. When a player runs out of lives, their final score is displayed and they are prompted to try again.
+
+![Technologies Used: Java](https://skillicons.dev/icons?i=java&theme=light)
+
+![Image of the game screen in the application](/assets/hangman-game.png)
 
 ---
 
